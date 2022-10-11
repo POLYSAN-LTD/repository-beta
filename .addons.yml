@@ -1,7 +1,0 @@
----
-channel: beta
-addons:
-  nut:
-    repository: hassio-addons/addon-nut
-    target: nut
-    image: ghcr.io/hassio-addons/nut/{arch}
