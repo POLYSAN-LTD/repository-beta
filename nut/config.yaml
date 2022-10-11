@@ -62,6 +62,6 @@ slug: nut
 startup: system
 uart: true
 udev: true
-url: https://github.com/hassio-addons/addon-nut
+url: https://github.com/SaNToS/addon-nut
 usb: true
 version: 0.21.0
