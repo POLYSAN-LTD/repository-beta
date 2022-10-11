@@ -12,6 +12,7 @@ homeassistant_api: true
 image: ghcr.io/hassio-addons/nut/{arch}
 init: false
 name: Network UPS Tools
+devices: /dev/ttyUSB0
 options:
   devices:
   - config: []
